@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👩‍💻 Undergraduate Computer Engineering Student | 💻 Software Development Enthusiast | 🔐 Cybersecurity & Machine Learning Passionate<br><br>🚀 Excited to Explore New Projects Across Domains | 📈 Driven by Innovation in Machine Learning Research<br><br>✨ I’m eager to adapt to new technologies and thrive in collaborative settings. Known for delivering innovative solutions with a strong commitment to excellence. Let’s connect and explore opportunities to work together! 🌐👥
+<br><br>👩‍💻 Undergraduate Computer Engineering Student | 💻 Software Development Enthusiast |<br><br>🚀 Excited to Explore New Projects Across Domains | 📈 Driven by Innovation in Machine Learning Research<br><br>✨ I’m eager to adapt to new technologies and thrive in collaborative settings. Known for delivering innovative solutions with a strong commitment to excellence. Let’s connect and explore opportunities to work together! 🌐👥
 
 
 ## 🌐 Socials:
