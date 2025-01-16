@@ -53,7 +53,7 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 ## 🎥 Programming in Action
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Girl enjoying programming" width="600" height="300" />
+  <img src="https://gifdb.com/coding" width="600" height="300" />
 </p>
 
 ---
