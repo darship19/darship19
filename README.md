@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Open+to+Internship+Opportunities;Passionate+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 👩‍💻 About Me
@@ -50,14 +49,6 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 
 ---
 
-## 🎥 Programming in Action
-
-<p align="center">
-  <img src="https://gifdb.com/coding" width="600" height="300" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -73,6 +64,12 @@ Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passio
 </p>
 
 ---
+
+## 🎥 Coding Vibes
+
+<p align="center">
+  <img src="https://gifdb.com/images/high/programming-humor-funny-coding-girl-ss2livw68x3ewb1a.gif" alt="Coding Girl GIF" width="600" height="300" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&lines=Thank+you+for+visiting!;Feel+free+to+connect+%F0%9F%91%8B" alt="Typing SVG" />
