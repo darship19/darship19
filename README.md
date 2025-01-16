@@ -1,8 +1,14 @@
-<h1 align="center">👋 Hi, I'm Premaranjan Darshika</h1>
+<h1 align="center">👩‍💻 Hi, I'm Premaranjan Darshika</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Open+to+Internship+Opportunities;Passionate+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+Hello! I'm **Premaranjan Darshika**, a Software Engineering undergraduate passionate about coding, problem-solving, and exploring new technologies. I’m currently seeking internship opportunities to further develop my skills and contribute to innovative projects.
 
 ---
 
@@ -43,13 +49,21 @@
 
 ---
 
+## 🎥 Programming in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Girl enjoying programming" width="600" height="300" />
+</p>
+
+---
+
 ## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:premaranjandarshika@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/darshikapremaranjan">
+  <a href="https://www.linkedin.com/in/darshika-premaranjan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/darship19">
