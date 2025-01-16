@@ -1,8 +1,9 @@
 <h1 align="center">👩‍💻 Hi, I'm Premaranjan Darshika</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=" Software+Engineering+Undergraduate";Open+to+Internship+Opportunities;Passionate+Learner+%26+Problem+Solver" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Open+to+Internship+Opportunities;Passionate+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
 
 ---
 
